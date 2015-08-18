@@ -1,8 +1,8 @@
 # MyActivityButton
-MyHUD is a HUD for www.8ni.com to show the newest Message 
+MyActivityButton is Custom UIButton used to set the different state while it is clicked.
 
 ##效果如下
 ###图1
-![qrview](https://github.com/wealon/MyHUD/blob/master/Resources/screen1.png?raw=true)
+![qrview](https://github.com/wealon/myActivityButton/blob/master/Resources/activityButton.gif?raw=true)
 
 
